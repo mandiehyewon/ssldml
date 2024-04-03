@@ -1,0 +1,16 @@
+dir_root: /storage/hyewonjeong/metricssl_02/
+dir_csv: /storage/shared/apollo/same-day/
+dir_result: /storage/hyewonjeong/metricssl_02/result/
+dir_apollo: /storage/shared/apollo/raw_tables_deid/
+dir_unl: /storage/shared/ecg/
+dir_dtw: /storage/hyewonjeong/metricssl_02/dtw_matrix_new
+dir_dtw_real: /storage/hyewonjeong/metricssl_02/dtw_matrix_real
+dir_dtw_prev: /storage/hyewonjeong/metricssl_02/dtw_matrix
+dir_triplets: /storage/hyewonjeong/metricssl_02/triplets
+dir_dtwrealtriplets: /storage/hyewonjeong/metricssl_02/stores/triplets_dtwreal
+dir_euctriplets: /storage/hyewonjeong/metricssl_02/euc_triplets
+dir_binclasstriplets: /storage/hyewonjeong/metricssl_02/stores/class_triplets
+dir_regtriplets: /storage/hyewonjeong/metricssl_02/stores/reg_triplets
+dir_semihardtriplets: /storage/hyewonjeong/metricssl_02/stores/semihard_triplets
+dir_softhardtriplets: /storage/hyewonjeong/metricssl_02/stores/softhard_triplets
+dir_euc: /storage/hyewonjeong/metricssl_02/euc_matrix
