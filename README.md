@@ -11,6 +11,7 @@ conda activate ssldml
 
 ## Organization
 Due to restrictions on sharing the data, unfortunately currently we're unable to share the MGB ECG dataset. However, you can modify the code designed for the MGB dataset to other public source ECGs. Important folders within the codebase include:
+```
     .
     ├── criteria                                        # codes for metric loss
     ├── data                                            # data classes, dataloader classes
@@ -18,7 +19,7 @@ Due to restrictions on sharing the data, unfortunately currently we're unable to
     ├── miner                                           # Mine Triplets based on distance (DTW, Euclidean), Label, etc.
     ├── utils                                           # Tools and utilities
     └── README.md
-
+```
 
 # Baselines
 Supervised baseline with ResNet18 model for the binary classification of PCWP
