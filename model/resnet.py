@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 '''
-@time: 2019/9/8 20:14
+@time: 2019/9/8 20:14, 2021/12/10
 直接修改torch的resnet
-@ author: javis
+@ author: javis, modified by Hyewon Jeong
 Adopted From:
 https://github.com/Amadeuszhao/SE-ECGNet/blob/master/models/resnet.py
+https://github.com/mandiehyewon/ssldml/blob/main/model/resnet.py
+Paper that uses this model: 
 '''
 
 import torch.nn as nn
